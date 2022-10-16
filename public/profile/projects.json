@@ -1,0 +1,150 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/dev-portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Dev Portfolio made in Bootstrap.\n -  Fully customisable and dynamic.\n - Easily change data and images.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/samsleepingatparty/Portfolio-Template-V2"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://samsleepingatparty.xyz/me"
+                }
+            ],
+            "tags" : [
+                "Bootstrap",
+                "Portfolio",
+                "Responsive"
+            ]
+        },
+        {
+            "image" : "images/projects/30DoJS-poster.png",
+            "title": "30 Days of Javascript",
+            "bodyText": "- Easy to learn.\n - For educational purpose.\n - Almost zero dependencies.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/samsleepingatparty/30Days-of-Javascript"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://samsleepingatparty.xyz/javascript"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "Projects",
+                "Educational"
+            ]
+        },
+        {
+            "image" : "images/projects/gamefi-website-poster.png",
+            "title": "GameFi Website",
+            "bodyText": "- Appreance for GameFi Website.\n - Contains animate.\n - Almost responsive for all devices.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://sleepingatparty.xyz/project/demo1"
+                }
+            ],
+            "tags" : [
+                "Landing Page",
+                "Projects",
+                "GameFi"
+            ]
+        },
+        {
+            "title": "Company Profile Website",
+            "bodyText": "- Fresh looks.\n - Include login & register.\n - Almost responsive for all devices.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://sleepingatparty.xyz/project/demo2"
+                }
+            ],
+            "tags" : [
+                "Company Profile",
+                "Projects",
+                "Auth"
+            ]
+        },
+        {
+            "title": "NFT Product Card",
+            "bodyText": "- 'Place Bid' button.\n - Animated.\n - Responsive for all devices.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://sleepingatparty.xyz/project/demo5"
+                }
+            ],
+            "tags" : [
+                "NFT Card",
+                "Projects",
+                "Crypto"
+            ]
+        },
+        {
+            "title": "TBA",
+            "bodyText": "- X\n - X\n - X",
+            "links": [
+                {
+                    "text": "Live (Soon)",
+                    "href": "#"
+                }
+            ],
+            "tags" : [
+                "X",
+                "X",
+                "X"
+            ]
+        },
+        {
+            "title": "TBA",
+            "bodyText": "- X\n - X\n - X",
+            "links": [
+                {
+                    "text": "Live (Soon)",
+                    "href": "#"
+                }
+            ],
+            "tags" : [
+                "X",
+                "X",
+                "X"
+            ]
+        },
+        {
+            "title": "TBA",
+            "bodyText": "- X\n - X\n - X",
+            "links": [
+                {
+                    "text": "Live (Soon)",
+                    "href": "#"
+                }
+            ],
+            "tags" : [
+                "X",
+                "X",
+                "X"
+            ]
+        },
+        {
+            "title": "TBA",
+            "bodyText": "- X\n - X\n - X",
+            "links": [
+                {
+                    "text": "Live (Soon)",
+                    "href": "#"
+                }
+            ],
+            "tags" : [
+                "X",
+                "X",
+                "X"
+            ]
+        }
+    ]
+}
